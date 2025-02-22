@@ -26,7 +26,7 @@ class _LoginScreenState extends State<LoginScreen> {
         child: Padding(
           padding: EdgeInsets.all(20),
           child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start, // Align text and inputs to the left
+            crossAxisAlignment: CrossAxisAlignment.start, 
             children: [
               Align(
                 alignment: Alignment.topCenter,
