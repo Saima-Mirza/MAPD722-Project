@@ -32,7 +32,7 @@ class _PatientListState extends State<PatientListPage> {
   }
 
   void _editPatient(int index) {
-    print('Edit patient at index: $index');
+   
   }
 
   @override
